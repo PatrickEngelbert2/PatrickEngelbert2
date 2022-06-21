@@ -11,11 +11,11 @@
 
 - 💬 Ask me about **React, JavaScript, or express.js**
 
-- 📫 How to reach me **patrickengelbert2@gmail.com**
+- 📫 How to reach me: **patrickengelbert2@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1ah9pg5T-yvJ-bZ7avTAzJq3EGltYw7Ojv9BQHaLFiHg/edit?usp=sharing](https://docs.google.com/document/d/1ah9pg5T-yvJ-bZ7avTAzJq3EGltYw7Ojv9BQHaLFiHg/edit?usp=sharing)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1ah9pg5T-yvJ-bZ7avTAzJq3EGltYw7Ojv9BQHaLFiHg/edit?usp=sharing](https://docs.google.com/document/d/1ah9pg5T-yvJ-bZ7avTAzJq3EGltYw7Ojv9BQHaLFiHg/edit?usp=sharing)
 
-- ⚡ Fun fact **Working with computer hardware is one of my favorite hobbies**
+- ⚡ Fun fact! **Working with computer hardware is one of my favorite hobbies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
