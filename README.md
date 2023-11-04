@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Operation Tracker](https://github.com/PatrickEngelbert2/Operation-Track)
 
-- 🌱 I’m currently learning **Angular and Typescript**
+- 🌱 I’m currently learning **Java and React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PatrickEngelbert2?tab=repositories](https://github.com/PatrickEngelbert2?tab=repositories)
 
-- 💬 Ask me about **React, JavaScript, or express.js**
+- 💬 Ask me about **React.js, JavaScript, or express.js**
 
 - 📫 How to reach me: **patrickengelbert2@gmail.com**
 
